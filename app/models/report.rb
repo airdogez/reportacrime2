@@ -5,4 +5,5 @@ class Report < ActiveRecord::Base
   belongs_to :category
   has_one :district
   has_one :category
+  has_one :status
 end
