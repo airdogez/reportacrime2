@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  description: MyText
+  details: MyText
+  address: MyString
+  latitude: 1.5
+  longitude: 1.5
+  active: false
+  district_id: 
+  status_id: 
+  category_id: 
+
+two:
+  user_id: 
+  description: MyText
+  details: MyText
+  address: MyString
+  latitude: 1.5
+  longitude: 1.5
+  active: false
+  district_id: 
+  status_id: 
+  category_id: 
